@@ -1,5 +1,8 @@
-
-![42155](https://github.com/Heicro-Software-Solutions/.github/assets/100486080/cde67543-5041-4bf4-98a8-58bfd6bcb400)
+<p align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://github.com/Heicro-Software-Solutions/.github/assets/100486080/cde67543-5041-4bf4-98a8-58bfd6bcb400"  height="600" />
+  </a>
+</p>
 
 We are excited to extend an invitation for you to join our team as a developer. We're seeking talented individuals who are passionate about coding and eager to collaborate on projects. By joining us, you'll have the opportunity to earn pocket money or a regular salary, depending on your level of involvement and commitment.
 
