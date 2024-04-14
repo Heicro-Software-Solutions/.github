@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://github.com/Heicro-Software-Solutions/.github/assets/100486080/cde67543-5041-4bf4-98a8-58bfd6bcb400"  height="600" />
+      <img src="https://github.com/Heicro-Software-Solutions/.github/assets/100486080/cde67543-5041-4bf4-98a8-58bfd6bcb400"  height="400" />
   </a>
 </p>
 
